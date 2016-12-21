@@ -11,13 +11,13 @@ disqus: keurfonluu
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com/' }
--  { name: twitter, url: 'http://twitter.com' }
+-  { name: facebook, url: 'https://www.facebook.com/keurfon.luu' }
+-  { name: twitter, url: 'https://twitter.com/keurfonluu' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
--  { name: linkedin, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/keurfonluu' }
 -  { name: skype, url: '' }
--  { name: github, url: '' }
+-  { name: github, url: 'https://github.com/keurfonluu' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
@@ -65,7 +65,7 @@ permalink: /:categories/:title.html
 category_dir: categories
 
 # Pagination
-paginate: 10
+paginate: 5
 paginate_path: "/page:num/"
 
 # Conversion
