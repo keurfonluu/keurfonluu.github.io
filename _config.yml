@@ -54,7 +54,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: ""
+url: "https://keurfonluu.github.io"
 baseurl: ""
 
 # Includes
