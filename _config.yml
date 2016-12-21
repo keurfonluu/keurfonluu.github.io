@@ -2,16 +2,16 @@
 name: Keurfon Luu
 job_title: Ph. D. student in Geophysics
 email: keurfonluu@outlook.com
-description: I build great products at Google, currently Google Maps. I also enjoy capturing moments with my camera and discovering new music. Follow me Twitter or drop me a line.
+description: The way it has always been done is not necessarily the way it should be done
 avatar: https://s3.amazonaws.com/uifaces/faces/twitter/dancounsell/128.jpg
 favicon: /favicon.ico
-twitter_handler: your_handler
+twitter_handler: keurfonluu
 analytics_code: UA-XXXXXXX-2
-disqus: your_disqus_site
+disqus: keurfonluu
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com' }
+-  { name: facebook, url: 'http://facebook.com/' }
 -  { name: twitter, url: 'http://twitter.com' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
@@ -40,7 +40,7 @@ show_tags: 0
 show_mood: 1
 show_email: 1
 show_rss: 0
-show_comments: 0
+show_comments: 1
 show_menu: 1
 fixed_sidebar: 1
 
