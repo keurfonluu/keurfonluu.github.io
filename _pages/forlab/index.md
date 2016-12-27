@@ -5,4 +5,4 @@ permalink: "/forlab/"
 index: 2
 ---
 
-Everything you need to know about Forlab is here, to say...nothing!
+Forlab aims to provide a package of functions for scientific computing in Fortran.
