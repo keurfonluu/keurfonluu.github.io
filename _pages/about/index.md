@@ -5,8 +5,7 @@ permalink: "/about/"
 index: 1
 ---
 
-## About
-Nothing to say...
+Introducing myself...nothing to say...
 
 ## Skills
 None...
